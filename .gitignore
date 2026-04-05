@@ -1,0 +1,143 @@
+# ==========================================
+# NUST Bank RAG Assistant - Git Ignore
+# ==========================================
+
+# Python Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+*.egg-info/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+dist/
+build/
+
+# Python Package Manager
+pip-log.txt
+pip-delete-this-directory.txt
+*.egg
+.eggs/
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE and Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+.project
+.pydevproject
+.settings/
+*.iml
+
+# Node.js & React
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm
+package-lock.json
+.next/
+out/
+
+# React specific
+build/
+.cache/
+.parcel-cache
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Data files (user uploads)
+data/uploads/*
+!data/uploads/.gitkeep
+
+# FAISS Index files (can be regenerated)
+index/*
+!index/.gitkeep
+
+# OS specific
+Thumbs.db
+.AppleDouble
+.LSOverride
+._*
+
+# Logs
+logs/
+*.log
+log.txt
+
+# Temporary files
+*.tmp
+*.bak
+*.backup
+*.temp
+*~
+\#*\#
+.\#*
+
+# Output and cache directories
+outputs/
+cache/
+*.pyc
+*.pyo
+
+# Model files (large, can be downloaded/generated)
+*.bin
+*.pt
+*.pth
+*.model
+*.weights
+
+# PDF files
+*.pdf
+
+# Documentation
+site/
+docs/_build/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Local development
+local_settings.py
+local_config.py
+debug.py
+
+# Secrets and credentials
+*.key
+*.pem
+secrets.json
+.secrets/
+credentials.json
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

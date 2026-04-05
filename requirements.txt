@@ -1,0 +1,19 @@
+# Core dependencies for the RAG pipeline
+ollama
+sentence-transformers
+faiss-cpu
+numpy
+pandas
+openpyxl
+
+# Backend API
+fastapi
+uvicorn
+pydantic
+python-multipart
+
+# UI + config (Gradio is optional, React frontend is used instead)
+python-dotenv
+
+# Optional
+pymupdf

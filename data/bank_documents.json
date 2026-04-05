@@ -1,0 +1,342 @@
+[
+  {
+    "id": "faq_transfer_001",
+    "category": "Funds Transfer / RAAST",
+    "text": "Question: Is there a limit on the amount I can transfer through the mobile banking app? Answer: Yes, 1 million is the current daily limit. Transfer limits vary based on your account type. Check the Limits section in the app for specifics on daily transfer limits."
+  },
+  {
+    "id": "faq_transfer_002",
+    "category": "Funds Transfer / RAAST",
+    "text": "Question: How can I change limit of funds transfer? Answer: To change your funds, transfer limit, go to the My profile section and select Manage Limit in the app, then select Change FT/IBFT limits."
+  },
+  {
+    "id": "faq_transfer_003",
+    "category": "Funds Transfer / RAAST",
+    "text": "Question: How can I add or update beneficiaries or recipients of mobile banking app for funds transfer? Answer: In the app, navigate to the Transfer Funds section and select New Beneficiaries. Here, you can choose to add a new beneficiary by entering their details or update existing beneficiary information."
+  },
+  {
+    "id": "faq_transfer_004",
+    "category": "Funds Transfer / RAAST",
+    "text": "Question: How do I perform international transactions through mobile app? Answer: One can enable international transactions by tapping on card management, select manage debit card and choose international tranx activation option."
+  },
+  {
+    "id": "faq_transfer_005",
+    "category": "Funds Transfer / RAAST",
+    "text": "Question: Does the app support contactless payments or digital wallets? Answer: For contactless payments NUST Bank has a separate mobile app named as NUST Digital Wallets. Customers can download and perform payments."
+  },
+  {
+    "id": "faq_app_001",
+    "category": "App Features / Functionalities",
+    "text": "Question: Can I use the mobile app while I am overseas? Answer: Yes, the NUST mobile app can be accessed globally. Ensure you have internet connectivity and your registered mobile number is active for OTPs if required."
+  },
+  {
+    "id": "faq_app_002",
+    "category": "App Features / Functionalities",
+    "text": "Question: What should I do if I forget my login password? Answer: Tap on Forgot Password on the login screen. Follow the steps to reset your password using your registered mobile number and verification details."
+  },
+  {
+    "id": "faq_app_003",
+    "category": "App Features / Functionalities",
+    "text": "Question: Can I reset my MPIN through the app? Answer: Yes, after logging into the app, go to Profile then Change MPIN and follow the prompts to reset your MPIN securely."
+  },
+  {
+    "id": "faq_app_004",
+    "category": "App Features / Functionalities",
+    "text": "Question: What services are available under Bill Payment option? Answer: You can pay utility bills, internet and mobile bills, and government fees using the Bill Payment option in the app."
+  },
+  {
+    "id": "faq_app_005",
+    "category": "App Features / Functionalities",
+    "text": "Question: How can I recharge mobile balance or buy top-up? Answer: Use the Mobile Top-Up feature. Select your network, enter the mobile number and amount, and confirm with your MPIN."
+  },
+  {
+    "id": "faq_app_006",
+    "category": "App Features / Functionalities",
+    "text": "Question: Is biometric login supported in the app? Answer: Yes, biometric login is supported. You can enable it under the Profile section by turning on Fingerprint Login for faster and secure access."
+  },
+  {
+    "id": "faq_app_007",
+    "category": "App Features / Functionalities",
+    "text": "Question: Can I view my debit card details using the mobile app? Answer: You can view basic card details like the card status and activation options. For full card info, please contact the bank for security reasons."
+  },
+  {
+    "id": "faq_app_008",
+    "category": "App Features / Functionalities",
+    "text": "Question: How can I report an issue or give feedback within the app? Answer: Go to the Contact Us or Feedback section in the app and submit your query or feedback. You can also email support@NUSTbank.com.pk."
+  },
+  {
+    "id": "faq_app_009",
+    "category": "App Features / Functionalities",
+    "text": "Question: How can I deactivate or delete my mobile banking account? Answer: For security reasons, deactivation or deletion requests must be submitted by calling the helpline at +92 (51) 111 000 494."
+  },
+  {
+    "id": "faq_app_010",
+    "category": "App Features / Functionalities",
+    "text": "Question: Is the mobile app available in multiple languages? Answer: Currently, the NUST mobile app supports English only. Multilingual support is being considered for future updates."
+  },
+  {
+    "id": "product_lca_001",
+    "category": "Little Champs Account",
+    "text": "Question: I would like to open an account with my son, do you have any product for kids? Answer: Yes our product is Little Champs Account. It is designed specifically for minors (individuals below the age of 18 years). A child requires the help of a parental or legal guardian to open this account and avail its facilities. Little Champs get a Debit Card and chequebook which is free the first time."
+  },
+  {
+    "id": "product_lca_002",
+    "category": "Little Champs Account",
+    "text": "Question: What are the main Features of the Little Champs Account? Answer: The main features include: Minimum initial deposit of Rs.100 for Little Champs Savings Account. The account provides a Debit Card and chequebook free of cost for the first time. It is designed for minors below 18 years of age with a guardian."
+  },
+  {
+    "id": "product_naa_001",
+    "category": "NUST Asaan Account",
+    "text": "Question: What is the Eligibility Criteria for NAA (NUST Asaan Account)? Answer: Resident Pakistani individuals who do not maintain or have any other account (single or joint) in NUST Bank Limited are eligible to open the NAA in Pak rupees as a single or joint account."
+  },
+  {
+    "id": "product_naa_002",
+    "category": "NUST Asaan Account",
+    "text": "Question: What is the account type of NAA? Answer: NAA (NUST Asaan Account) can be opened both in Current and Savings."
+  },
+  {
+    "id": "product_nwa_001",
+    "category": "NUST Waqaar Account",
+    "text": "Question: Does your bank offer any account for senior citizens? Answer: Yes, NUST Waqaar Account has been developed for senior citizens, enabling them to carry out their banking transactions and also to avail investment opportunities."
+  },
+  {
+    "id": "product_nwa_002",
+    "category": "NUST Waqaar Account",
+    "text": "Question: What are the salient features of NUST Waqaar Account? Answer: NUST Waqaar Account offers both Savings and Term Deposit options with profit payment features tailored for senior citizens."
+  },
+  {
+    "id": "product_pwra_001",
+    "category": "PakWatan Remittance Account",
+    "text": "Question: Is there any account NUST Bank is offering for remittance purposes? Answer: Yes, PakWatan Remittance Account. Through the PakWatan Remittance Account, beneficiaries can quickly and securely receive remittances from their loved ones living abroad directly into their bank account without visiting the branch."
+  },
+  {
+    "id": "product_pwra_002",
+    "category": "PakWatan Remittance Account",
+    "text": "Question: What are initial or minimum balance requirements for PakWatan Remittance Account? Answer: No initial deposit requirement."
+  },
+  {
+    "id": "product_rda_001",
+    "category": "Roshan Digital Account",
+    "text": "Question: Does NUST Bank offer any account for Non-Resident Pakistanis (NRPs)? Answer: Yes, Roshan Digital Account. Specially designed for Individual Non-Resident Pakistanis (NRPs) seeking to undertake banking, payment and investment activities in Pakistan."
+  },
+  {
+    "id": "product_rda_002",
+    "category": "Roshan Digital Account",
+    "text": "Question: Is there any minimum balance requirement of Roshan Digital Account? Answer: No initial deposit requirement."
+  },
+  {
+    "id": "product_vpca_001",
+    "category": "Value Plus Current Account",
+    "text": "Question: I would like to inquire about opening a current account for individuals with your bank. What options do I have? Answer: NUST Value Plus Current Account is specially designed for individuals to cater their financial needs."
+  },
+  {
+    "id": "product_vpca_002",
+    "category": "Value Plus Current Account",
+    "text": "Question: What are the free facilities being provided with NUST Value Plus Current Account? Answer: Free facilities include Cheque Books (unlimited) among other banking services for individual current account holders."
+  },
+  {
+    "id": "product_vpba_001",
+    "category": "Value Plus Business Account",
+    "text": "Question: I would like to inquire about opening a current account for business with your bank. What options do I have? Answer: NUST Value Plus Business Account is best suited for startups and businesses."
+  },
+  {
+    "id": "product_vpba_002",
+    "category": "Value Plus Business Account",
+    "text": "Question: What free facilities are provided on Value Plus Current Account for Business upon maintaining minimum monthly average balance? Answer: Free facilities include Issuance of Cheque Books and other banking services for business account holders."
+  },
+  {
+    "id": "product_vpba_premium_001",
+    "category": "NUST Value Premium Business Account",
+    "text": "Question: I would like to inquire about opening a premium current account for business purpose. What options do I have? Answer: NUST Value Premium Business Account has been designed to better meet the specialized banking needs of businesses that continue to grow with time."
+  },
+  {
+    "id": "product_vpba_premium_002",
+    "category": "NUST Value Premium Business Account",
+    "text": "Question: What free facilities are provided on Value Plus Current Account for Premium Business upon maintaining minimum monthly average balance? Answer: Free facilities include Issuance of Cheque Books and other premium banking services."
+  },
+  {
+    "id": "product_nsda_001",
+    "category": "NUST Special Deposit Account",
+    "text": "Question: Is NUST Bank offering any account which provides lucrative profits on savings? Answer: NUST Special Deposit Account (ASDA) is specially designed for large ticket customers to meet their transactional and savings needs."
+  },
+  {
+    "id": "product_nsda_002",
+    "category": "NUST Special Deposit Account",
+    "text": "Question: What is the minimum balance requirement of NUST Special Deposit Account? Answer: No Minimum Monthly Average Balance Requirement."
+  },
+  {
+    "id": "product_pls_001",
+    "category": "Profit and Loss Sharing Account",
+    "text": "Question: What is the Profit and Loss Sharing Account (PLS)? Answer: The PLS account is a savings product offered by NUST Bank that allows customers to earn profit on their deposits based on a profit and loss sharing basis."
+  },
+  {
+    "id": "product_cda_001",
+    "category": "Certificate of Deposit Account",
+    "text": "Question: Does NUST Bank offer Certificate of Deposit Account (CDA)? Answer: Yes, NUST Bank offers Certificate of Deposit Account for customers seeking fixed-term investment options with competitive profit rates."
+  },
+  {
+    "id": "product_nma_001",
+    "category": "NUST Munafa Account",
+    "text": "Question: What is NUST Munafa Account? Answer: NUST Munafa Account is a deposit product designed for customers seeking attractive profit rates on their savings with flexible tenure options."
+  },
+  {
+    "id": "product_nada_001",
+    "category": "NUST NADA Account",
+    "text": "Question: What is NUST NADA Account? Answer: NUST NADA Account is a specialized account product offered by NUST Bank for customers with specific banking needs."
+  },
+  {
+    "id": "product_nsa_001",
+    "category": "NUST Sahar Accounts",
+    "text": "Question: Does NUST Bank offer any account for women? Answer: Yes, NUST Sahar Accounts are designed specifically to cater to the banking and financial needs of women customers."
+  },
+  {
+    "id": "product_nust4car_001",
+    "category": "NUST4Car Auto Finance",
+    "text": "Question: Does NUST Bank offer auto financing? Answer: Yes, NUST4Car is NUST Bank's Auto Finance Facility that provides financing for purchasing vehicles."
+  },
+  {
+    "id": "product_pf_001",
+    "category": "Personal Finance",
+    "text": "Question: Does NUST Bank offer personal finance? Answer: Yes, NUST Bank offers Personal Finance products to help customers meet their personal financial needs."
+  },
+  {
+    "id": "product_nmc_001",
+    "category": "NUST Master Card",
+    "text": "Question: Does NUST Bank offer a Master Card? Answer: Yes, NUST Bank offers NUST Master Card for its customers with various features and benefits."
+  },
+  {
+    "id": "product_nmf_001",
+    "category": "NUST Mortgage Finance",
+    "text": "Question: Does NUST Bank offer mortgage financing? Answer: Yes, NUST Bank offers NUST Mortgage Finance to help customers purchase or construct their homes."
+  },
+  {
+    "id": "product_nsf_001",
+    "category": "NUST Sahar Finance",
+    "text": "Question: What is NUST Sahar Finance? Answer: NUST Sahar Finance is a financing product specifically designed for women entrepreneurs and businesses."
+  },
+  {
+    "id": "product_nsf_002",
+    "category": "NUST Sahar Finance",
+    "text": "Question: What are the purposes for which NUST Sahar Finance can be availed? Answer: NUST Sahar Finance can be availed for: expansion of existing business, set up of new business, and purchase of stocks or working capital requirements."
+  },
+  {
+    "id": "product_nif_001",
+    "category": "NUST Imarat Finance",
+    "text": "Question: Is NUST Bank offering any financing specifically for the ownership and capacity enhancement of business premises? Answer: NUST Bank has structured a financing product called NUST Imarat Finance under the SME segment. The Product Program has been developed to stabilize SME business through making their ownership of business premises under mortgage finance of urban commercial or industrial buildings for capacity enhancement of SMEs. The product is structured for SMEs owned by general public as well as retired armed forces officers and families of serving officers."
+  },
+  {
+    "id": "product_nif_002",
+    "category": "NUST Imarat Finance",
+    "text": "Question: For which purpose NUST Imarat Finance is being offered? Answer: AIF 1: Acquisition or Purchase of urban commercial or industrial constructed property, office and commercial premises for commercial or business activity. AIF 2: Construction on self owned urban commercial or industrial plot. AIF 3: Additional construction on already built urban commercial or industrial plaza or building. AIF 4: Renovation of self owned urban commercial or industrial property, plaza, or business premises."
+  },
+  {
+    "id": "product_nuf_001",
+    "category": "NUST Ujala Finance",
+    "text": "Question: Is NUST Bank offering any financing product related to renewable or alternate energy solutions? Answer: NUST Bank has structured a financing product under the name of NUST Ujala Finance in light of SBP's refinance scheme, under the SME segment. The Product Program has been developed to provide financing for installation of solar energy equipment as an alternate source of energy."
+  },
+  {
+    "id": "product_nuf_002",
+    "category": "NUST Ujala Finance",
+    "text": "Question: Who can apply for NUST Ujala Finance? Answer: The following can apply: 1. SE/ME Financing. 2. Vendors or Suppliers Financing. 3. NUST Employees Financing. 4. Domestic Applicant Financing (exclusively for employees of corporate or government sector)."
+  },
+  {
+    "id": "product_nfmf_001",
+    "category": "NUST Flour Mill Finance",
+    "text": "Question: Is NUST Bank offering any seasonal financing? Answer: Yes, seasonal finance product NUST Flour Mill Finance has been structured for quick financing under program-based lending. The product has been designed for Flour Mills to meet their working capital needs. NUST Flour Mill Finance caters to meet seasonal financing needs of wheat procurement and other overhead expenses to flour mills. The scope of product targets flour mills which fall under category of SME."
+  },
+  {
+    "id": "product_nfmf_002",
+    "category": "NUST Flour Mill Finance",
+    "text": "Question: For which purposes NUST Flour Mill Finance is being offered? Answer: Cash Finance (CF): To meet working capital requirements of flour mill business for procurement of wheat as per milling capacity. Running Finance (RF): To meet working capital requirements for transportation, salary and wages, utility and other administrative expenses. Procurement of wheat through RF funds is restricted."
+  },
+  {
+    "id": "product_nfbf_001",
+    "category": "NUST Fauri Business Finance",
+    "text": "Question: Is NUST Bank offering any financing against liquid security? Answer: Yes, NUST Fauri Business Finance has been introduced to provide a swift package to meet financial business needs of new to bank obligors. AFBF is offered to meet short, medium and long-term requirements of business. The finance will be provided to SMEs and Commercial entities for all eligible sectors as per NUST credit policy manual."
+  },
+  {
+    "id": "product_nfbf_002",
+    "category": "NUST Fauri Business Finance",
+    "text": "Question: What is the Eligibility Criteria for business entity in NUST Fauri Business Finance? Answer: All entities except individuals are eligible."
+  },
+  {
+    "id": "product_pmyb_001",
+    "category": "Prime Minister Youth Business & Agriculture Loan Scheme",
+    "text": "Question: Is NUST Bank Participating in PMYB & ALS? Answer: Yes, NUST Bank is actively participating in PMYB&ALS. It has been specially designed to provide self-employment opportunity to the unemployed youth of the country who have skills, knowledge, experience or willingness to start their own businesses on small to medium scale or expand existing business on vast scale."
+  },
+  {
+    "id": "product_pmyb_002",
+    "category": "Prime Minister Youth Business & Agriculture Loan Scheme",
+    "text": "Question: For which purposes PMYB & ALS is being offered? Answer: To start new business and to expand existing business."
+  },
+  {
+    "id": "product_nrf_001",
+    "category": "NUST Rice Finance",
+    "text": "Question: Is NUST Bank offering any seasonal financing for rice mills? Answer: Yes, NUST Rice Finance caters to meet seasonal financing needs of paddy procurement and other overhead expenses to rice mills, based on past performance and milling capacity to fulfil their seasonal financial needs. The scope of the product is to target Rice Mills which fall under the category of SME."
+  },
+  {
+    "id": "product_nrf_002",
+    "category": "NUST Rice Finance",
+    "text": "Question: For which purposes NUST Rice Finance is being offered? Answer: Cash Finance (CF): To meet working capital requirements of Rice Husking Mills for procurement of paddy as per milling capacity. Running Finance (RF): To meet working capital requirements of Rice Husking Mills for transportation, salary and wages, utility and other administrative expenses. Procurement of Paddy through RF funds is restricted."
+  },
+  {
+    "id": "product_nhf_001",
+    "category": "NUST Hunarmand Finance",
+    "text": "Question: Is there any business loan product offered by NUST for families of armed forces and retired officers? Answer: Yes, NUST Hunarmand Finance is a sub product of PMYB&ALS structured with an objective to provide business opportunity to specific target market: retired commissioned, junior commissioned, non-commissioned officers of the armed forces and their family members (spouse and children), and spouse and children of serving officers of armed forces."
+  },
+  {
+    "id": "product_nhf_002",
+    "category": "NUST Hunarmand Finance",
+    "text": "Question: For which purposes NUST Hunarmand Finance is being offered? Answer: To start new business and to expand existing business."
+  },
+  {
+    "id": "product_bancassurance_001",
+    "category": "Bancassurance",
+    "text": "Question: Can I purchase Bancassurance policy from my account maintained with NUST Bank? Answer: Yes, every customer who attains the age of 18 and has an account with NUST Bank is eligible to purchase a Bancassurance policy from their account. Bancassurance is offered by three Insurance Provider companies: NUST Life Assurance Company Ltd, EFU Life Assurance Ltd, and Jubilee Life Insurance Company."
+  },
+  {
+    "id": "product_home_remittance_001",
+    "category": "Home Remittance",
+    "text": "Question: What is Home Remittance? Answer: Home Remittance Service enables remitters to send money from abroad to Pakistan instantly, conveniently, and safely through the legal banking channel."
+  },
+  {
+    "id": "product_home_remittance_002",
+    "category": "Home Remittance",
+    "text": "Question: What types of Inward Home Remittance products does NUST Bank offer? Answer: NUST offers the following Home Remittance Products: Cash Over the Counter (CoC) payments for walk-in customers, NUST Account Transfer, and Other Bank Account Transfer via Inter Bank Funds Transfer (IBFT) and Real Time Gross Settlement (RTGS)."
+  },
+  {
+    "id": "product_esfca_001",
+    "category": "NUST ESFCA",
+    "text": "Question: What is NUST ESFCA? Answer: NUST ESFCA (Essential Services Finance for Corporate Agriculture) is a financing product designed to support corporate agriculture sector with essential financial services."
+  },
+  {
+    "id": "product_nfda_001",
+    "category": "NUST NFDA",
+    "text": "Question: What is NUST NFDA? Answer: NUST NFDA (NUST Fixed Deposit Account) offers fixed-term deposit facilities with competitive profit rates for customers looking for secure investment options."
+  },
+  {
+    "id": "product_nadra_001",
+    "category": "NADRA Account",
+    "text": "Question: What is NUST NADRA Account? Answer: NUST NADRA account is designed for customers who wish to open a bank account using their NADRA verified identity credentials."
+  },
+  {
+    "id": "general_001",
+    "category": "General Banking",
+    "text": "NUST Bank Limited is a full-service commercial bank offering a wide range of conventional banking products and services including savings accounts, current accounts, term deposits, personal finance, auto finance, mortgage finance, SME finance, agricultural finance, and bancassurance products. The bank serves individuals, businesses, and corporate clients across Pakistan."
+  },
+  {
+    "id": "general_002",
+    "category": "General Banking",
+    "text": "NUST Bank offers multiple account types for different customer segments: Little Champs Account for minors, NUST Asaan Account (NAA) for basic banking, NUST Waqaar Account for senior citizens, NUST Sahar Accounts for women, PakWatan Remittance Account for remittance beneficiaries, Roshan Digital Account for Non-Resident Pakistanis, Value Plus Current Account for individuals, Value Plus Business Account for businesses, NUST Value Premium Business Account for growing businesses, NUST Special Deposit Account for large depositors, and Profit and Loss Sharing Account."
+  },
+  {
+    "id": "general_003",
+    "category": "General Banking",
+    "text": "NUST Bank offers various financing products: NUST4Car Auto Finance for vehicle purchases, Personal Finance for personal needs, NUST Mortgage Finance for home purchase or construction, NUST Sahar Finance for women entrepreneurs, NUST Imarat Finance for business premises, NUST Ujala Finance for solar energy installation, NUST Flour Mill Finance for seasonal wheat procurement, NUST Rice Finance for seasonal paddy procurement, NUST Fauri Business Finance against liquid security, NUST Hunarmand Finance for armed forces families, and Prime Minister Youth Business & Agriculture Loan Scheme."
+  },
+  {
+    "id": "general_004",
+    "category": "Customer Support",
+    "text": "For customer support, you can contact NUST Bank through the following channels: Helpline at +92 (51) 111 000 494, email at support@NUSTbank.com.pk, or visit your nearest NUST Bank branch. You can also use the Contact Us or Feedback section within the NUST mobile banking app."
+  }
+]
