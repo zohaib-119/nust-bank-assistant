@@ -101,7 +101,6 @@ log.txt
 .\#*
 
 # Output and cache directories
-outputs/
 cache/
 *.pyc
 *.pyo
